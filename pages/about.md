@@ -14,7 +14,7 @@ credits: true
 
 ## About Heritage Hall
 
-Heritage Hall, originally the Home Economics building, opened its doors in 1973. In August 2025, renovations began.
+Heritage Hall, originally the Home Economics building, opened its doors in 1973...
 
 ## About the Collection
 
